@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{B55C15B3-D83F-4544-9826-EF70C7A7036C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ATMECS_Test/Program.cs">
+    <Files>
+      <File FileName="ATMECS_Test/Program.cs" Line="30" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ATMECS_Test" expanded="True" selected="True">
+            <Node name="ATMECS_Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ATMECS__Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
